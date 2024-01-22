@@ -13,10 +13,17 @@
 /// Then, consider the “read lines until first empty line” idiom.
 ///
 ////////////////////////////////////////////////////////////////////////////////
-
-
+#include <iostream> 
+#include <string> 
 int main()
 {
+
+    std::string a;
+    std::getline(std::cin, a);
+    while(a != ""){
+        std::cout << a << std::endl;
+        std::getline(std::cin, a);
+    }
     // TODO: input your code here
 
     return 0;
