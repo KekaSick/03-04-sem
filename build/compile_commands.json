@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Wall -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/problem1_hello.dir/problem1_hello/main.cpp.o -c \"/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem1_hello/main.cpp\"",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem1_hello/main.cpp",
+  "output": "CMakeFiles/problem1_hello.dir/problem1_hello/main.cpp.o"
+},
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Wall -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/problem2_len_of_cstr.dir/problem2_len_of_cstr/main.cpp.o -c \"/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem2_len_of_cstr/main.cpp\"",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem2_len_of_cstr/main.cpp",
+  "output": "CMakeFiles/problem2_len_of_cstr.dir/problem2_len_of_cstr/main.cpp.o"
+},
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Wall -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/problem3_getline.dir/problem3_getline/main.cpp.o -c \"/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem3_getline/main.cpp\"",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem3_getline/main.cpp",
+  "output": "CMakeFiles/problem3_getline.dir/problem3_getline/main.cpp.o"
+},
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Wall -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/problem4_str_funcs.dir/problem4_str_funcs/main.cpp.o -c \"/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem4_str_funcs/main.cpp\"",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem4_str_funcs/main.cpp",
+  "output": "CMakeFiles/problem4_str_funcs.dir/problem4_str_funcs/main.cpp.o"
+},
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Wall -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/problem5_print_ascii.dir/problem5_print_ascii/main.cpp.o -c \"/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem5_print_ascii/main.cpp\"",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem5_print_ascii/main.cpp",
+  "output": "CMakeFiles/problem5_print_ascii.dir/problem5_print_ascii/main.cpp.o"
+},
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Wall -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/problem6_str_indices.dir/problem6_str_indices/main.cpp.o -c \"/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem6_str_indices/main.cpp\"",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem6_str_indices/main.cpp",
+  "output": "CMakeFiles/problem6_str_indices.dir/problem6_str_indices/main.cpp.o"
+},
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Wall -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/problem7_mult_table_2.dir/problem7_mult_table_2/main.cpp.o -c \"/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem7_mult_table_2/main.cpp\"",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem7_mult_table_2/main.cpp",
+  "output": "CMakeFiles/problem7_mult_table_2.dir/problem7_mult_table_2/main.cpp.o"
+},
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Wall -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/problem8_enh_mult_table_2.dir/problem8_enh_mult_table_2/main.cpp.o -c \"/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem8_enh_mult_table_2/main.cpp\"",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/problem8_enh_mult_table_2/main.cpp",
+  "output": "CMakeFiles/problem8_enh_mult_table_2.dir/problem8_enh_mult_table_2/main.cpp.o"
+}
+]

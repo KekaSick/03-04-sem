@@ -1,0 +1,10 @@
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/problem1_hello.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/problem2_len_of_cstr.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/problem3_getline.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/problem4_str_funcs.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/problem5_print_ascii.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/problem6_str_indices.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/problem7_mult_table_2.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/problem8_enh_mult_table_2.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/edit_cache.dir
+/Users/mverzhbitskiy/Documents/GitHub/03-04 sem/build/CMakeFiles/rebuild_cache.dir

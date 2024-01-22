@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -O0 -Wall -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/problem2_len_of_cstr.dir/problem2_len_of_cstr/main.cpp.o -o problem2_len_of_cstr 
