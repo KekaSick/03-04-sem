@@ -25,6 +25,6 @@ int main()
         std::getline(std::cin, a);
     }
     // TODO: input your code here
-
+    std::cout << "termination";
     return 0;
 }

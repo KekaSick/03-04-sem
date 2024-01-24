@@ -14,19 +14,22 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
+#include <iostream>
+
+
 int main()
 {
+    char s;
 
-    char cha;
-    scanf("%c", &cha);
+    scanf("%c", &s);
+
     int i = 0;
-    while(cha != '\n'){
+
+    while(s != '\n'){
         i++;
-        scanf("%c",&cha);
+        scanf("%c",&s);
     }
     printf("%d", i);
-
     // TODO: input your code here
-
     return 0;
 }

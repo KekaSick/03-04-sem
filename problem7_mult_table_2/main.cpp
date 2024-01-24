@@ -13,9 +13,36 @@
 ///
 ////////////////////////////////////////////////////////////////////////////////
 
+#include <iostream>
 
 int main()
 {
+
+    int n;
+    int m;
+    
+    std::cout << "Please enter two number in next format 1 <= (m, n) <= 8"<< std::endl <<"Please enter first number 'n': ";
+    std::cin >> n;
+    std::cout << std::endl <<  "Please enter second number 'm': ";
+    std::cin >> m;
+    std::cout << std::endl;
+
+
+    for (int i = n; i <= m; i++){
+        for (int j = n; j<=m; j++){
+
+            if(i == n){
+                std::cout << j << '\t';
+            }
+            else if(j == n){
+                std::cout << i << '\t';
+            }
+            else{
+                std::cout << j*i << '\t';
+            }
+        }
+        std::cout << std::endl;
+    }
     // TODO: input your code here
     return 0;
 }

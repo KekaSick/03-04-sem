@@ -12,10 +12,17 @@
 ///
 ////////////////////////////////////////////////////////////////////////////////
 
-
+#include <iostream>
 int main()
 {
     // TODO: input your code here
-
+    char ch;
+    std::cout<<"Character\tASCII Value\n";
+    for(int i=32; i<127; i++)
+    {
+        ch = i;
+        std::cout<<ch<<"\t\t"<<i<<std::endl;
+    }
+    std::cout<<std::endl;
     return 0;
 }

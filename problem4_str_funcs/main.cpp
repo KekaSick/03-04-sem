@@ -15,9 +15,15 @@
 ///
 ////////////////////////////////////////////////////////////////////////////////
 
-
+#include <iostream>
 int main()
 {
+    //for c-style strings 
+    int STRING_BUFFER = 256;
+    char s[STRING_BUFFER];
+    std::cin >> s;
+    std::cout << s;
+
     // TODO: input your code here
 
     return 0;
